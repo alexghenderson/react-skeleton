@@ -32,6 +32,7 @@
     "redux": "^3.5.2",
     "redux-actions": "^0.10.1",
     "redux-thunk": "^2.1.0",
+    "semantic-ui-react": "^0.64.0",
     "webpack": "^1.13.1",
     "webpack-assets": "^0.2.0",
     "webpack-config-babel": "^0.2.0",
